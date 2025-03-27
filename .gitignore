@@ -1,0 +1,6 @@
+.DS_Store
+.idea/
+*.iml
+/build/
+/lab3/build/
+/lab4/build/
